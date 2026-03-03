@@ -19,15 +19,15 @@
 
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
-| 1 | 1. Two Sum | LeetCode | Easy | [1](https://leetcode.com/problems/1/) | ☐ | |
+| 1 | 1. Two Sum | LeetCode | Easy | [1](https://leetcode.com/problems/1/) | ⭐ | |
 | 2 | 2. Best Time to Buy and Sell Stock | LeetCode | Easy | [121](https://leetcode.com/problems/121/) | ☐ | |
 | 3 | 3. Product of Array Except Self | LeetCode | Medium | [238](https://leetcode.com/problems/238/) | ☐ | |
-| 4 | 4. Maximum Subarray | LeetCode | Medium | [53](https://leetcode.com/problems/53/) | ☐ | |
-| 5 | 5. Container With Most Water | LeetCode | Medium | [11](https://leetcode.com/problems/11/) | ☐ | |
-| 6 | 6. 3Sum | LeetCode | Medium | [15](https://leetcode.com/problems/15/) | ☐ | |
+| 4 | 4. Maximum Subarray | LeetCode | Medium | [53](https://leetcode.com/problems/53/) | ⭐ | |
+| 5 | 5. Container With Most Water | LeetCode | Medium | [11](https://leetcode.com/problems/11/) | ⭐ | |
+| 6 | 6. 3Sum | LeetCode | Medium | [15](https://leetcode.com/problems/15/) | ⭐ | |
 | 7 | 7. Next Permutation | LeetCode | Medium | [31](https://leetcode.com/problems/31/) | ☐ | |
 | 8 | 8. Search in Rotated Sorted Array | LeetCode | Medium | [33](https://leetcode.com/problems/33/) | ☐ | |
-| 9 | 9. First Missing Positive | LeetCode | Hard | [41](https://leetcode.com/problems/41/) | ☐ | |
+| 9 | 9. First Missing Positive | LeetCode | Hard | [41](https://leetcode.com/problems/41/) | ⭐ | |
 
 ### 2. Critical String Problems
 
@@ -35,10 +35,10 @@
 
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
-| 1 | 1. Longest Substring Without Repeating Characters | LeetCode | Medium | [3](https://leetcode.com/problems/3/) | ☐ | |
-| 2 | 2. Longest Palindromic Substring | LeetCode | Medium | [5](https://leetcode.com/problems/5/) | ☐ | |
+| 1 | 1. Longest Substring Without Repeating Characters | LeetCode | Medium | [3](https://leetcode.com/problems/3/) | ⭐ | |
+| 2 | 2. Longest Palindromic Substring | LeetCode | Medium | [5](https://leetcode.com/problems/5/) | ⭐ | |
 | 3 | 3. Group Anagrams | LeetCode | Medium | [49](https://leetcode.com/problems/49/) | ☐ | |
-| 4 | 4. Minimum Window Substring | LeetCode | Hard | [76](https://leetcode.com/problems/76/) | ☐ | |
+| 4 | 4. Minimum Window Substring | LeetCode | Hard | [76](https://leetcode.com/problems/76/) | ⭐ | |
 
 ### 3. Critical Tree Problems
 
@@ -46,8 +46,8 @@
 
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
-| 1 | 1. Binary Tree Maximum Path Sum | LeetCode | Hard | [124](https://leetcode.com/problems/124/) | ☐ | |
-| 2 | 2. Serialize and Deserialize Binary Tree | LeetCode | Hard | [297](https://leetcode.com/problems/297/) | ☐ | |
+| 1 | 1. Binary Tree Maximum Path Sum | LeetCode | Hard | [124](https://leetcode.com/problems/124/) | ⭐ | |
+| 2 | 2. Serialize and Deserialize Binary Tree | LeetCode | Hard | [297](https://leetcode.com/problems/297/) | ⭐ | |
 | 3 | 3. Lowest Common Ancestor | LeetCode | Medium | [236](https://leetcode.com/problems/236/) | ☐ | |
 
 ### 4. Critical Graph Problems
@@ -56,9 +56,9 @@
 
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
-| 1 | 1. Number of Islands | LeetCode | Medium | [200](https://leetcode.com/problems/200/) | ☐ | |
-| 2 | 2. Clone Graph | LeetCode | Medium | [133](https://leetcode.com/problems/133/) | ☐ | |
-| 3 | 3. Course Schedule | LeetCode | Medium | [207](https://leetcode.com/problems/207/) | ☐ | |
+| 1 | 1. Number of Islands | LeetCode | Medium | [200](https://leetcode.com/problems/200/) | ⭐ | |
+| 2 | 2. Clone Graph | LeetCode | Medium | [133](https://leetcode.com/problems/133/) | ⭐ | |
+| 3 | 3. Course Schedule | LeetCode | Medium | [207](https://leetcode.com/problems/207/) | ⭐ | |
 
 ### 5. Critical DP Problems
 
@@ -66,9 +66,9 @@
 
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
-| 1 | 1. House Robber | LeetCode | Medium | [198](https://leetcode.com/problems/198/) | ☐ | |
-| 2 | 2. Edit Distance | LeetCode | Hard | [72](https://leetcode.com/problems/72/) | ☐ | |
-| 3 | 3. Longest Increasing Subsequence | LeetCode | Medium | [300](https://leetcode.com/problems/300/) | ☐ | |
+| 1 | 1. House Robber | LeetCode | Medium | [198](https://leetcode.com/problems/198/) | ⭐ | |
+| 2 | 2. Edit Distance | LeetCode | Hard | [72](https://leetcode.com/problems/72/) | ⭐ | |
+| 3 | 3. Longest Increasing Subsequence | LeetCode | Medium | [300](https://leetcode.com/problems/300/) | ⭐ | |
 | 4 | 4. Coin Change | LeetCode | Medium | [322](https://leetcode.com/problems/322/) | ☐ | |
 
 ### 6. Last Moment Must Know
@@ -77,10 +77,10 @@
 
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
-| 1 | 1. Merge K Sorted Lists | LeetCode | Hard | [23](https://leetcode.com/problems/23/) | ☐ | |
-| 2 | 2. Reverse Linked List | LeetCode | Easy | [206](https://leetcode.com/problems/206/) | ☐ | |
+| 1 | 1. Merge K Sorted Lists | LeetCode | Hard | [23](https://leetcode.com/problems/23/) | ⭐ | |
+| 2 | 2. Reverse Linked List | LeetCode | Easy | [206](https://leetcode.com/problems/206/) | ⭐ | |
 | 3 | 3. Top K Frequent Elements | LeetCode | Medium | [347](https://leetcode.com/problems/347/) | ☐ | |
-| 4 | 4. Trapping Rain Water | LeetCode | Hard | [42](https://leetcode.com/problems/42/) | ☐ | |
+| 4 | 4. Trapping Rain Water | LeetCode | Hard | [42](https://leetcode.com/problems/42/) | ⭐ | |
 
 ---
 

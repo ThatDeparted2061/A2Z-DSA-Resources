@@ -95,23 +95,23 @@
 
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
-| 1 | 1. Largest Element in Array | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/largest-element-array/) | ☐ | |
+| 1 | 1. Largest Element in Array | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/largest-element-array/) | ⭐ | |
 | 2 | 2. Second Largest Element | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/second-largest-element/) | ☐ | |
 | 3 | 3. Check if Array is Sorted | LeetCode | Easy | [1752](https://leetcode.com/problems/1752/) | ☐ | |
-| 4 | 4. Remove Duplicates from Sorted Array | LeetCode | Easy | [26](https://leetcode.com/problems/26/) | ☐ | |
+| 4 | 4. Remove Duplicates from Sorted Array | LeetCode | Easy | [26](https://leetcode.com/problems/26/) | ⭐ | |
 | 5 | 5. Left Rotate Array by One | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/left-rotate-array-by-one/) | ☐ | |
-| 6 | 6. Left Rotate Array by D | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/left-rotate-array-by-d/) | ☐ | |
+| 6 | 6. Left Rotate Array by D | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/left-rotate-array-by-d/) | ⭐ | |
 | 7 | 7. Move Zeros to End | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/move-all-zeros-to-end/) | ☐ | |
 | 8 | 8. Linear Search | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/linear-search/) | ☐ | |
-| 9 | 9. Find Union of Two Arrays | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/find-union-two-arrays/) | ☐ | |
+| 9 | 9. Find Union of Two Arrays | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/find-union-two-arrays/) | ⭐ | |
 | 10 | 10. Find Intersection of Two Arrays | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/find-intersection-two-arrays/) | ☐ | |
 | 11 | 11. Missing Number in Array | LeetCode | Easy | [268](https://leetcode.com/problems/268/) | ☐ | |
 | 12 | 12. Max Consecutive Ones | LeetCode | Easy | [485](https://leetcode.com/problems/485/) | ☐ | |
 | 13 | 13. Find Single Number | LeetCode | Easy | [136](https://leetcode.com/problems/136/) | ☐ | |
-| 14 | 14. Longest Subarray with Sum K (Positive & Negative) | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/longest-subarray-sum-k/) | ☐ | |
+| 14 | 14. Longest Subarray with Sum K (Positive & Negative) | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/longest-subarray-sum-k/) | ⭐ | |
 | 15 | 15. Longest Subarray with Sum K (Positives) | LeetCode | Easy | [209](https://leetcode.com/problems/209/) | ☐ | |
 | 16 | 16. Two Sum | LeetCode | Easy | [1](https://leetcode.com/problems/1/) | ☐ | |
-| 17 | 17. Sort Array of 0s 1s 2s | LeetCode | Medium | [75](https://leetcode.com/problems/75/) | ☐ | |
+| 17 | 17. Sort Array of 0s 1s 2s | LeetCode | Medium | [75](https://leetcode.com/problems/75/) | ⭐ | |
 | 18 | 18. Majority Element | LeetCode | Medium | [169](https://leetcode.com/problems/169/) | ☐ | |
 | 19 | 19. Majority Element II | LeetCode | Medium | [229](https://leetcode.com/problems/229/) | ☐ | |
 | 20 | 20. Beautiful Array | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/beautiful-array/) | ☐ | |
@@ -121,7 +121,7 @@
 | 24 | 24. Rotate Image | LeetCode | Medium | [48](https://leetcode.com/problems/48/) | ☐ | |
 | 25 | 25. Print Matrix in Spiral Order | LeetCode | Medium | [54](https://leetcode.com/problems/54/) | ☐ | |
 | 26 | 26. Print Matrix in Zigzag | LeetCode | Hard | [498](https://leetcode.com/problems/498/) | ☐ | |
-| 27 | 27. Set Matrix Zeros | LeetCode | Medium | [73](https://leetcode.com/problems/73/) | ☐ | |
+| 27 | 27. Set Matrix Zeros | LeetCode | Medium | [73](https://leetcode.com/problems/73/) | ⭐ | |
 | 28 | 28. Pascal's Triangle | LeetCode | Easy | [118](https://leetcode.com/problems/118/) | ☐ | |
 | 29 | 29. Pascal's Triangle II | LeetCode | Easy | [119](https://leetcode.com/problems/119/) | ☐ | |
 | 30 | 30. Stars (Matrix Pattern) | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/star-pattern/) | ☐ | |
@@ -142,28 +142,28 @@
 
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
-| 1 | 1. Binary Search | LeetCode | Easy | [704](https://leetcode.com/problems/704/) | ☐ | |
+| 1 | 1. Binary Search | LeetCode | Easy | [704](https://leetcode.com/problems/704/) | ⭐ | |
 | 2 | 2. Lower Bound | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/lower-bound/) | ☐ | |
 | 3 | 3. Upper Bound | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/upper-bound/) | ☐ | |
-| 4 | 4. Search Insert Position | LeetCode | Easy | [35](https://leetcode.com/problems/35/) | ☐ | |
+| 4 | 4. Search Insert Position | LeetCode | Easy | [35](https://leetcode.com/problems/35/) | ⭐ | |
 | 5 | 5. First and Last Position of Element in Sorted Array | LeetCode | Medium | [34](https://leetcode.com/problems/34/) | ☐ | |
-| 6 | 6. Find Peak Element | LeetCode | Medium | [162](https://leetcode.com/problems/162/) | ☐ | |
+| 6 | 6. Find Peak Element | LeetCode | Medium | [162](https://leetcode.com/problems/162/) | ⭐ | |
 | 7 | 7. Search in Rotated Sorted Array | LeetCode | Medium | [33](https://leetcode.com/problems/33/) | ☐ | |
 | 8 | 8. Search in Rotated Sorted Array II | LeetCode | Hard | [81](https://leetcode.com/problems/81/) | ☐ | |
 | 9 | 9. Find K-th Element of Two Sorted Arrays | LeetCode | Hard | [4](https://leetcode.com/problems/4/) | ☐ | |
 | 10 | 10. Median of Two Sorted Arrays | LeetCode | Hard | [4](https://leetcode.com/problems/4/) | ☐ | |
-| 11 | 11. Minimum in Rotated Sorted Array | LeetCode | Medium | [153](https://leetcode.com/problems/153/) | ☐ | |
+| 11 | 11. Minimum in Rotated Sorted Array | LeetCode | Medium | [153](https://leetcode.com/problems/153/) | ⭐ | |
 | 12 | 12. Minimum in Rotated Sorted Array II | LeetCode | Hard | [154](https://leetcode.com/problems/154/) | ☐ | |
 | 13 | 13. Single Element in Sorted Array | LeetCode | Medium | [540](https://leetcode.com/problems/540/) | ☐ | |
 | 14 | 14. Find the Sqrt | LeetCode | Easy | [69](https://leetcode.com/problems/69/) | ☐ | |
-| 15 | 15. Nth Root of M | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/nth-root-of-m/) | ☐ | |
+| 15 | 15. Nth Root of M | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/nth-root-of-m/) | ⭐ | |
 | 16 | 16. Capacity to Ship Packages Within D Days | LeetCode | Medium | [1011](https://leetcode.com/problems/1011/) | ☐ | |
 | 17 | 17. Koko Eating Bananas | LeetCode | Medium | [875](https://leetcode.com/problems/875/) | ☐ | |
 | 18 | 18. Minimum Days to Make M Bouquets | LeetCode | Medium | [1482](https://leetcode.com/problems/1482/) | ☐ | |
 | 19 | 19. Aggressive Cows | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/aggressive-cows/) | ☐ | |
 | 20 | 20. Book Allocation | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/allocate-books/) | ☐ | |
 | 21 | 21. Painter's Partition Problem | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/painters-partition-problem/) | ☐ | |
-| 22 | 22. Split Array Largest Sum | LeetCode | Hard | [410](https://leetcode.com/problems/410/) | ☐ | |
+| 22 | 22. Split Array Largest Sum | LeetCode | Hard | [410](https://leetcode.com/problems/410/) | ⭐ | |
 | 23 | 23. Minimize Max Distance to Gas Station | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/minimize-max-distance-gas-station/) | ☐ | |
 | 24 | 24. Smallest Divisor Given a Threshold | LeetCode | Medium | [1283](https://leetcode.com/problems/1283/) | ☐ | |
 | 25 | 25. Binary Search 2D Matrix | LeetCode | Medium | [74](https://leetcode.com/problems/74/) | ☐ | |
@@ -182,15 +182,15 @@
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
 | 1 | 1. Reverse String | LeetCode | Easy | [344](https://leetcode.com/problems/344/) | ☐ | |
-| 2 | 2. Check Palindrome | LeetCode | Easy | [125](https://leetcode.com/problems/125/) | ☐ | |
+| 2 | 2. Check Palindrome | LeetCode | Easy | [125](https://leetcode.com/problems/125/) | ⭐ | |
 | 3 | 3. Remove Outermost Parentheses | LeetCode | Easy | [1021](https://leetcode.com/problems/1021/) | ☐ | |
 | 4 | 4. Isomorphic Strings | LeetCode | Easy | [205](https://leetcode.com/problems/205/) | ☐ | |
-| 5 | 5. Longest Common Prefix | LeetCode | Easy | [14](https://leetcode.com/problems/14/) | ☐ | |
+| 5 | 5. Longest Common Prefix | LeetCode | Easy | [14](https://leetcode.com/problems/14/) | ⭐ | |
 | 6 | 6. Reverse Words in String | LeetCode | Medium | [151](https://leetcode.com/problems/151/) | ☐ | |
 | 7 | 7. String to Integer | LeetCode | Medium | [8](https://leetcode.com/problems/8/) | ☐ | |
 | 8 | 8. Largest Odd Number | LeetCode | Easy | [1903](https://leetcode.com/problems/1903/) | ☐ | |
-| 9 | 9. Longest Palindromic Substring | LeetCode | Medium | [5](https://leetcode.com/problems/5/) | ☐ | |
-| 10 | 10. Sort Characters by Frequency | LeetCode | Medium | [451](https://leetcode.com/problems/451/) | ☐ | |
+| 9 | 9. Longest Palindromic Substring | LeetCode | Medium | [5](https://leetcode.com/problems/5/) | ⭐ | |
+| 10 | 10. Sort Characters by Frequency | LeetCode | Medium | [451](https://leetcode.com/problems/451/) | ⭐ | |
 | 11 | 11. Reorganize String | LeetCode | Medium | [767](https://leetcode.com/problems/767/) | ☐ | |
 | 12 | 12. Implement Atoi | LeetCode | Medium | [8](https://leetcode.com/problems/8/) | ☐ | |
 | 13 | 13. Minimum Characters to Make Strings Equal | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/min-chars-make-equal/) | ☐ | |
@@ -213,19 +213,19 @@
 | 8 | 8. Search in LinkedList | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/search-linked-list/) | ☐ | |
 | 9 | 9. Display LinkedList | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/display-linked-list/) | ☐ | |
 | 10 | 10. Count Nodes in LinkedList | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/count-nodes/) | ☐ | |
-| 11 | 11. Reverse a LinkedList | LeetCode | Easy | [206](https://leetcode.com/problems/206/) | ☐ | |
+| 11 | 11. Reverse a LinkedList | LeetCode | Easy | [206](https://leetcode.com/problems/206/) | ⭐ | |
 | 12 | 12. Middle of LinkedList | LeetCode | Easy | [876](https://leetcode.com/problems/876/) | ☐ | |
-| 13 | 13. Merge Two Sorted LinkedList | LeetCode | Easy | [21](https://leetcode.com/problems/21/) | ☐ | |
+| 13 | 13. Merge Two Sorted LinkedList | LeetCode | Easy | [21](https://leetcode.com/problems/21/) | ⭐ | |
 | 14 | 14. Palindromic LinkedList | LeetCode | Easy | [234](https://leetcode.com/problems/234/) | ☐ | |
-| 15 | 15. Detect Cycle in LinkedList | LeetCode | Easy | [141](https://leetcode.com/problems/141/) | ☐ | |
+| 15 | 15. Detect Cycle in LinkedList | LeetCode | Easy | [141](https://leetcode.com/problems/141/) | ⭐ | |
 | 16 | 16. Find Cycle Start | LeetCode | Medium | [142](https://leetcode.com/problems/142/) | ☐ | |
 | 17 | 17. Intersection of Two LinkedLists | LeetCode | Easy | [160](https://leetcode.com/problems/160/) | ☐ | |
-| 18 | 18. Flattening a LinkedList | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/flatten-linked-list/) | ☐ | |
+| 18 | 18. Flattening a LinkedList | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/flatten-linked-list/) | ⭐ | |
 | 19 | 19. Sort LinkedList | LeetCode | Medium | [148](https://leetcode.com/problems/148/) | ☐ | |
 | 20 | 20. Segregate Odd Even Nodes | LeetCode | Medium | [328](https://leetcode.com/problems/328/) | ☐ | |
 | 21 | 21. Delete Node Without Access to Head | LeetCode | Medium | [237](https://leetcode.com/problems/237/) | ☐ | |
 | 22 | 22. LRU Cache | LeetCode | Hard | [146](https://leetcode.com/problems/146/) | ☐ | |
-| 23 | 23. Rotate LinkedList | LeetCode | Medium | [61](https://leetcode.com/problems/61/) | ☐ | |
+| 23 | 23. Rotate LinkedList | LeetCode | Medium | [61](https://leetcode.com/problems/61/) | ⭐ | |
 | 24 | 24. Remove Nth Node From End | LeetCode | Medium | [19](https://leetcode.com/problems/19/) | ☐ | |
 | 25 | 25. Remove Duplicates from Sorted List | LeetCode | Easy | [83](https://leetcode.com/problems/83/) | ☐ | |
 | 26 | 26. Remove Duplicates from Unsorted List | LeetCode | Medium | [82](https://leetcode.com/problems/82/) | ☐ | |
@@ -300,24 +300,24 @@
 |---|---|---|---|---|---|---|
 | 1 | 1. Stack Implementation | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/stack-implementation/) | ☐ | |
 | 2 | 2. Queue Implementation | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/queue-implementation/) | ☐ | |
-| 3 | 3. Valid Parentheses | LeetCode | Easy | [20](https://leetcode.com/problems/20/) | ☐ | |
+| 3 | 3. Valid Parentheses | LeetCode | Easy | [20](https://leetcode.com/problems/20/) | ⭐ | |
 | 4 | 4. Reverse a Stack | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/reverse-stack/) | ☐ | |
 | 5 | 5. Redundant Parentheses | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/redundant-parentheses/) | ☐ | |
 | 6 | 6. Infix to Postfix | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/infix-to-postfix/) | ☐ | |
 | 7 | 7. Infix to Prefix | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/infix-to-prefix/) | ☐ | |
 | 8 | 8. Postfix to Infix | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/postfix-to-infix/) | ☐ | |
 | 9 | 9. Evaluate Postfix Expression | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/evaluate-postfix/) | ☐ | |
-| 10 | 10. Evaluate Prefix Expression | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/evaluate-prefix/) | ☐ | |
+| 10 | 10. Evaluate Prefix Expression | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/evaluate-prefix/) | ⭐ | |
 | 11 | 11. Smallest Number Following Pattern | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/smallest-number-pattern/) | ☐ | |
 | 12 | 12. Maximum Frequency Stack | LeetCode | Hard | [895](https://leetcode.com/problems/895/) | ☐ | |
-| 13 | 13. Implement Queue using Stacks | LeetCode | Easy | [232](https://leetcode.com/problems/232/) | ☐ | |
+| 13 | 13. Implement Queue using Stacks | LeetCode | Easy | [232](https://leetcode.com/problems/232/) | ⭐ | |
 | 14 | 14. Implement Stack using Queues | LeetCode | Easy | [225](https://leetcode.com/problems/225/) | ☐ | |
-| 15 | 15. Monotonic Stack - Next Greater Element | LeetCode | Medium | [496](https://leetcode.com/problems/496/) | ☐ | |
+| 15 | 15. Monotonic Stack - Next Greater Element | LeetCode | Medium | [496](https://leetcode.com/problems/496/) | ⭐ | |
 | 16 | 16. Next Greater Element II | LeetCode | Medium | [503](https://leetcode.com/problems/503/) | ☐ | |
 | 17 | 17. Next Smaller Element | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/next-smaller-element/) | ☐ | |
-| 18 | 18. Largest Rectangle in Histogram | LeetCode | Hard | [84](https://leetcode.com/problems/84/) | ☐ | |
+| 18 | 18. Largest Rectangle in Histogram | LeetCode | Hard | [84](https://leetcode.com/problems/84/) | ⭐ | |
 | 19 | 19. Maximal Rectangle | LeetCode | Hard | [85](https://leetcode.com/problems/85/) | ☐ | |
-| 20 | 20. Trapping Rain Water | LeetCode | Hard | [42](https://leetcode.com/problems/42/) | ☐ | |
+| 20 | 20. Trapping Rain Water | LeetCode | Hard | [42](https://leetcode.com/problems/42/) | ⭐ | |
 | 21 | 21. LRU Cache | LeetCode | Hard | [146](https://leetcode.com/problems/146/) | ☐ | |
 | 22 | 22. LFU Cache | LeetCode | Hard | [460](https://leetcode.com/problems/460/) | ☐ | |
 | 23 | 23. Sliding Window Maximum | LeetCode | Hard | [239](https://leetcode.com/problems/239/) | ☐ | |
@@ -414,21 +414,21 @@
 | 11 | 11. Vertical Order Traversal | LeetCode | Hard | [987](https://leetcode.com/problems/987/) | ☐ | |
 | 12 | 12. Diagonal Traversal | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/diagonal-traversal/) | ☐ | |
 | 13 | 13. Boundary Traversal | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/boundary-traversal/) | ☐ | |
-| 14 | 14. Identical Trees | LeetCode | Easy | [100](https://leetcode.com/problems/100/) | ☐ | |
+| 14 | 14. Identical Trees | LeetCode | Easy | [100](https://leetcode.com/problems/100/) | ⭐ | |
 | 15 | 15. Mirror Tree | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/mirror-tree/) | ☐ | |
 | 16 | 16. Balanced Binary Tree | LeetCode | Easy | [110](https://leetcode.com/problems/110/) | ☐ | |
 | 17 | 17. Diameter of Binary Tree | LeetCode | Easy | [543](https://leetcode.com/problems/543/) | ☐ | |
 | 18 | 18. Height of Binary Tree | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/height-binary-tree/) | ☐ | |
-| 19 | 19. Maximum Path Sum | LeetCode | Hard | [124](https://leetcode.com/problems/124/) | ☐ | |
-| 20 | 20. Lowest Common Ancestor | LeetCode | Medium | [236](https://leetcode.com/problems/236/) | ☐ | |
+| 19 | 19. Maximum Path Sum | LeetCode | Hard | [124](https://leetcode.com/problems/124/) | ⭐ | |
+| 20 | 20. Lowest Common Ancestor | LeetCode | Medium | [236](https://leetcode.com/problems/236/) | ⭐ | |
 | 21 | 21. Lowest Common Ancestor in BST | LeetCode | Easy | [235](https://leetcode.com/problems/235/) | ☐ | |
 | 22 | 22. Path Sum I | LeetCode | Easy | [112](https://leetcode.com/problems/112/) | ☐ | |
 | 23 | 23. Path Sum II | LeetCode | Medium | [113](https://leetcode.com/problems/113/) | ☐ | |
 | 24 | 24. Pathsum III | LeetCode | Medium | [437](https://leetcode.com/problems/437/) | ☐ | |
 | 25 | 25. All Root to Leaf Paths | LeetCode | Medium | [257](https://leetcode.com/problems/257/) | ☐ | |
-| 26 | 26. Construct Tree from Inorder and Preorder | LeetCode | Medium | [105](https://leetcode.com/problems/105/) | ☐ | |
+| 26 | 26. Construct Tree from Inorder and Preorder | LeetCode | Medium | [105](https://leetcode.com/problems/105/) | ⭐ | |
 | 27 | 27. Construct Tree from Inorder and Postorder | LeetCode | Medium | [106](https://leetcode.com/problems/106/) | ☐ | |
-| 28 | 28. Serialize and Deserialize Binary Tree | LeetCode | Hard | [297](https://leetcode.com/problems/297/) | ☐ | |
+| 28 | 28. Serialize and Deserialize Binary Tree | LeetCode | Hard | [297](https://leetcode.com/problems/297/) | ⭐ | |
 | 29 | 29. House Robber III | LeetCode | Medium | [337](https://leetcode.com/problems/337/) | ☐ | |
 | 30 | 30. Binary Tree Maximum Path Sum | LeetCode | Hard | [124](https://leetcode.com/problems/124/) | ☐ | |
 | 31 | 31. Populating Next Right Pointers | LeetCode | Medium | [116](https://leetcode.com/problems/116/) | ☐ | |
@@ -472,14 +472,14 @@
 |---|---|---|---|---|---|---|
 | 1 | 1. Adjacency Matrix Representation | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/adjacency-matrix/) | ☐ | |
 | 2 | 2. Adjacency List Representation | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/adjacency-list/) | ☐ | |
-| 3 | 3. BFS of Graph | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/bfs-graph/) | ☐ | |
-| 4 | 4. DFS of Graph | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/dfs-graph/) | ☐ | |
-| 5 | 5. Detect Cycle in Undirected Graph | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/detect-cycle-undirected/) | ☐ | |
+| 3 | 3. BFS of Graph | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/bfs-graph/) | ⭐ | |
+| 4 | 4. DFS of Graph | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/dfs-graph/) | ⭐ | |
+| 5 | 5. Detect Cycle in Undirected Graph | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/detect-cycle-undirected/) | ⭐ | |
 | 6 | 6. Detect Cycle in Directed Graph | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/detect-cycle-directed/) | ☐ | |
 | 7 | 7. Topological Sort | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/topological-sort/) | ☐ | |
 | 8 | 8. Kahmans Algorithm | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/kahn-algorithm/) | ☐ | |
 | 9 | 9. Shortest Path DAG | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/shortest-path-dag/) | ☐ | |
-| 10 | 10. Dijkstra's Algorithm | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/dijkstras-algorithm/) | ☐ | |
+| 10 | 10. Dijkstra's Algorithm | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/dijkstras-algorithm/) | ⭐ | |
 | 11 | 11. Bellman Ford | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/bellman-ford/) | ☐ | |
 | 12 | 12. Floyd Warshall | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/floyd-warshall/) | ☐ | |
 | 13 | 13. Prims Algorithm | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/prims-algorithm/) | ☐ | |
@@ -488,15 +488,15 @@
 | 16 | 16. Bridges in Undirected Graph | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/bridges-graph/) | ☐ | |
 | 17 | 17. Articulation Point | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/articulation-point/) | ☐ | |
 | 18 | 18. Union Find (DSU) | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/union-find/) | ☐ | |
-| 19 | 19. Number of Islands | LeetCode | Medium | [200](https://leetcode.com/problems/200/) | ☐ | |
+| 19 | 19. Number of Islands | LeetCode | Medium | [200](https://leetcode.com/problems/200/) | ⭐ | |
 | 20 | 20. Surrounded Regions | LeetCode | Medium | [130](https://leetcode.com/problems/130/) | ☐ | |
 | 21 | 21. Rotten Oranges | LeetCode | Medium | [994](https://leetcode.com/problems/994/) | ☐ | |
-| 22 | 22. Word Ladder | LeetCode | Hard | [127](https://leetcode.com/problems/127/) | ☐ | |
+| 22 | 22. Word Ladder | LeetCode | Hard | [127](https://leetcode.com/problems/127/) | ⭐ | |
 | 23 | 23. Word Ladder II | LeetCode | Hard | [126](https://leetcode.com/problems/126/) | ☐ | |
 | 24 | 24. Network Delay Time | LeetCode | Medium | [743](https://leetcode.com/problems/743/) | ☐ | |
 | 25 | 25. Path with Maximum Probability | LeetCode | Medium | [1514](https://leetcode.com/problems/1514/) | ☐ | |
 | 26 | 26. Cheapest Flights Within K Stops | LeetCode | Medium | [787](https://leetcode.com/problems/787/) | ☐ | |
-| 27 | 27. Swimming in Rising Water | LeetCode | Hard | [778](https://leetcode.com/problems/778/) | ☐ | |
+| 27 | 27. Swimming in Rising Water | LeetCode | Hard | [778](https://leetcode.com/problems/778/) | ⭐ | |
 | 28 | 28. Course Schedule | LeetCode | Medium | [207](https://leetcode.com/problems/207/) | ☐ | |
 | 29 | 29. Course Schedule II | LeetCode | Medium | [210](https://leetcode.com/problems/210/) | ☐ | |
 | 30 | 30. Graph Coloring Problem | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/graph-coloring/) | ☐ | |
@@ -535,31 +535,31 @@
 | 3 | 3. Fibonacci | LeetCode | Easy | [509](https://leetcode.com/problems/509/) | ☐ | |
 | 4 | 4. House Robber | LeetCode | Easy | [198](https://leetcode.com/problems/198/) | ☐ | |
 | 5 | 5. House Robber II | LeetCode | Medium | [213](https://leetcode.com/problems/213/) | ☐ | |
-| 6 | 6. Paint House | LeetCode | Medium | [198](https://leetcode.com/problems/198/) | ☐ | |
+| 6 | 6. Paint House | LeetCode | Medium | [198](https://leetcode.com/problems/198/) | ⭐ | |
 | 7 | 7. Paint House II | LeetCode | Hard | [265](https://leetcode.com/problems/265/) | ☐ | |
 | 8 | 8. Paint House III | LeetCode | Hard | [1473](https://leetcode.com/problems/1473/) | ☐ | |
 | 9 | 9. Best Time to Buy Sell Stock | LeetCode | Easy | [121](https://leetcode.com/problems/121/) | ☐ | |
-| 10 | 10. Best Time to Buy Sell Stock II | LeetCode | Medium | [122](https://leetcode.com/problems/122/) | ☐ | |
+| 10 | 10. Best Time to Buy Sell Stock II | LeetCode | Medium | [122](https://leetcode.com/problems/122/) | ⭐ | |
 | 11 | 11. Best Time to Buy Sell Stock III | LeetCode | Hard | [123](https://leetcode.com/problems/123/) | ☐ | |
 | 12 | 12. Best Time to Buy Sell Stock IV | LeetCode | Hard | [188](https://leetcode.com/problems/188/) | ☐ | |
 | 13 | 13. Best Time to Buy Sell Stock with Cooldown | LeetCode | Medium | [309](https://leetcode.com/problems/309/) | ☐ | |
 | 14 | 14. Best Time to Buy Sell Stock with Fee | LeetCode | Medium | [714](https://leetcode.com/problems/714/) | ☐ | |
-| 15 | 15. Edit Distance | LeetCode | Hard | [72](https://leetcode.com/problems/72/) | ☐ | |
+| 15 | 15. Edit Distance | LeetCode | Hard | [72](https://leetcode.com/problems/72/) | ⭐ | |
 | 16 | 16. Distinct Subsequences | LeetCode | Hard | [115](https://leetcode.com/problems/115/) | ☐ | |
 | 17 | 17. Delete Operation for Two Strings | LeetCode | Medium | [583](https://leetcode.com/problems/583/) | ☐ | |
 | 18 | 18. Wildcard Matching | LeetCode | Hard | [44](https://leetcode.com/problems/44/) | ☐ | |
 | 19 | 19. Regular Expression Matching | LeetCode | Hard | [10](https://leetcode.com/problems/10/) | ☐ | |
 | 20 | 20. Longest Palindromic Subsequence | LeetCode | Medium | [516](https://leetcode.com/problems/516/) | ☐ | |
-| 21 | 21. Longest Increasing Subsequence | LeetCode | Medium | [300](https://leetcode.com/problems/300/) | ☐ | |
+| 21 | 21. Longest Increasing Subsequence | LeetCode | Medium | [300](https://leetcode.com/problems/300/) | ⭐ | |
 | 22 | 22. Largest Divisible Subset | LeetCode | Medium | [368](https://leetcode.com/problems/368/) | ☐ | |
 | 23 | 23. Longest String Chain | LeetCode | Medium | [1048](https://leetcode.com/problems/1048/) | ☐ | |
 | 24 | 24. Number of Longest Increasing Subsequence | LeetCode | Medium | [673](https://leetcode.com/problems/673/) | ☐ | |
 | 25 | 25. Russian Doll Envelopes | LeetCode | Hard | [354](https://leetcode.com/problems/354/) | ☐ | |
-| 26 | 26. Coin Change | LeetCode | Medium | [322](https://leetcode.com/problems/322/) | ☐ | |
+| 26 | 26. Coin Change | LeetCode | Medium | [322](https://leetcode.com/problems/322/) | ⭐ | |
 | 27 | 27. Coin Change II | LeetCode | Medium | [518](https://leetcode.com/problems/518/) | ☐ | |
 | 28 | 28. Partition to K Equal Sum Subsets | LeetCode | Medium | [698](https://leetcode.com/problems/698/) | ☐ | |
 | 29 | 29. Target Sum | LeetCode | Medium | [494](https://leetcode.com/problems/494/) | ☐ | |
-| 30 | 30. Knapsack 0/1 | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/01-knapsack/) | ☐ | |
+| 30 | 30. Knapsack 0/1 | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/01-knapsack/) | ⭐ | |
 | 31 | 31. Unbounded Knapsack | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/unbounded-knapsack/) | ☐ | |
 | 32 | 32. Count Subsets with Sum = K | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/count-subsets-sum/) | ☐ | |
 | 33 | 33. Minimum Subset Sum Difference | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/minimum-subset-difference/) | ☐ | |
@@ -570,11 +570,11 @@
 | 38 | 38. Burst Balloons | LeetCode | Hard | [312](https://leetcode.com/problems/312/) | ☐ | |
 | 39 | 39. Palindrome Partitioning II | LeetCode | Hard | [132](https://leetcode.com/problems/132/) | ☐ | |
 | 40 | 40. Word Break | LeetCode | Medium | [139](https://leetcode.com/problems/139/) | ☐ | |
-| 41 | 41. Word Break II | LeetCode | Hard | [140](https://leetcode.com/problems/140/) | ☐ | |
+| 41 | 41. Word Break II | LeetCode | Hard | [140](https://leetcode.com/problems/140/) | ⭐ | |
 | 42 | 42. Maximal Rectangle | LeetCode | Hard | [85](https://leetcode.com/problems/85/) | ☐ | |
 | 43 | 43. Count Submatrices with All Ones | LeetCode | Medium | [1504](https://leetcode.com/problems/1504/) | ☐ | |
 | 44 | 44. Maximum Sum of Rectangle in Matrix | LeetCode | Hard | [363](https://leetcode.com/problems/363/) | ☐ | |
-| 45 | 45. Unique Paths | LeetCode | Medium | [62](https://leetcode.com/problems/62/) | ☐ | |
+| 45 | 45. Unique Paths | LeetCode | Medium | [62](https://leetcode.com/problems/62/) | ⭐ | |
 | 46 | 46. Unique Paths II | LeetCode | Medium | [63](https://leetcode.com/problems/63/) | ☐ | |
 | 47 | 47. Minimum Path Sum | LeetCode | Medium | [64](https://leetcode.com/problems/64/) | ☐ | |
 | 48 | 48. Cherry Pickup | LeetCode | Hard | [Cherry Pickup](https://leetcode.com/problems/Cherry Pickup/) | ☐ | |

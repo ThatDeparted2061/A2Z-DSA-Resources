@@ -19,15 +19,15 @@
 
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
-| 1 | 1. Two Sum | LeetCode | Easy | [1](https://leetcode.com/problems/1/) | ☐ | |
+| 1 | 1. Two Sum | LeetCode | Easy | [1](https://leetcode.com/problems/1/) | ⭐ | |
 | 2 | 2. Best Time to Buy and Sell Stock | LeetCode | Easy | [121](https://leetcode.com/problems/121/) | ☐ | |
 | 3 | 3. Contains Duplicate | LeetCode | Easy | [217](https://leetcode.com/problems/217/) | ☐ | |
-| 4 | 4. Product of Array Except Self | LeetCode | Medium | [238](https://leetcode.com/problems/238/) | ☐ | |
-| 5 | 5. Maximum Subarray | LeetCode | Medium | [53](https://leetcode.com/problems/53/) | ☐ | |
+| 4 | 4. Product of Array Except Self | LeetCode | Medium | [238](https://leetcode.com/problems/238/) | ⭐ | |
+| 5 | 5. Maximum Subarray | LeetCode | Medium | [53](https://leetcode.com/problems/53/) | ⭐ | |
 | 6 | 6. Maximum Product Subarray | LeetCode | Medium | [152](https://leetcode.com/problems/152/) | ☐ | |
 | 7 | 7. Search in Rotated Sorted Array | LeetCode | Medium | [33](https://leetcode.com/problems/33/) | ☐ | |
-| 8 | 8. 3Sum | LeetCode | Medium | [15](https://leetcode.com/problems/15/) | ☐ | |
-| 9 | 9. Container With Most Water | LeetCode | Medium | [11](https://leetcode.com/problems/11/) | ☐ | |
+| 8 | 8. 3Sum | LeetCode | Medium | [15](https://leetcode.com/problems/15/) | ⭐ | |
+| 9 | 9. Container With Most Water | LeetCode | Medium | [11](https://leetcode.com/problems/11/) | ⭐ | |
 
 ### 2. Binary
 
@@ -48,12 +48,12 @@
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
 | 1 | 1. Climbing Stairs | LeetCode | Easy | [70](https://leetcode.com/problems/70/) | ☐ | |
-| 2 | 2. Coin Change | LeetCode | Medium | [322](https://leetcode.com/problems/322/) | ☐ | |
-| 3 | 3. Longest Increasing Subsequence | LeetCode | Medium | [300](https://leetcode.com/problems/300/) | ☐ | |
+| 2 | 2. Coin Change | LeetCode | Medium | [322](https://leetcode.com/problems/322/) | ⭐ | |
+| 3 | 3. Longest Increasing Subsequence | LeetCode | Medium | [300](https://leetcode.com/problems/300/) | ⭐ | |
 | 4 | 4. Longest Common Subsequence | LeetCode | Medium | [1143](https://leetcode.com/problems/1143/) | ☐ | |
 | 5 | 5. Word Break Problem | LeetCode | Medium | [139](https://leetcode.com/problems/139/) | ☐ | |
 | 6 | 6. Combination Sum IV | LeetCode | Medium | [377](https://leetcode.com/problems/377/) | ☐ | |
-| 7 | 7. House Robber | LeetCode | Medium | [198](https://leetcode.com/problems/198/) | ☐ | |
+| 7 | 7. House Robber | LeetCode | Medium | [198](https://leetcode.com/problems/198/) | ⭐ | |
 | 8 | 8. House Robber II | LeetCode | Medium | [213](https://leetcode.com/problems/213/) | ☐ | |
 | 9 | 9. Decode Ways | LeetCode | Medium | [91](https://leetcode.com/problems/91/) | ☐ | |
 
@@ -63,11 +63,11 @@
 
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
-| 1 | 1. Clone Graph | LeetCode | Medium | [133](https://leetcode.com/problems/133/) | ☐ | |
+| 1 | 1. Clone Graph | LeetCode | Medium | [133](https://leetcode.com/problems/133/) | ⭐ | |
 | 2 | 2. Course Schedule | LeetCode | Medium | [207](https://leetcode.com/problems/207/) | ☐ | |
 | 3 | 3. Pacific Atlantic Water Flow | LeetCode | Medium | [417](https://leetcode.com/problems/417/) | ☐ | |
-| 4 | 4. Number of Islands | LeetCode | Medium | [200](https://leetcode.com/problems/200/) | ☐ | |
-| 5 | 5. Alien Dictionary | LeetCode | Hard | [269](https://leetcode.com/problems/269/) | ☐ | |
+| 4 | 4. Number of Islands | LeetCode | Medium | [200](https://leetcode.com/problems/200/) | ⭐ | |
+| 5 | 5. Alien Dictionary | LeetCode | Hard | [269](https://leetcode.com/problems/269/) | ⭐ | |
 | 6 | 6. Graph Valid Tree | LeetCode | Medium | [261](https://leetcode.com/problems/261/) | ☐ | |
 | 7 | 7. Number of Connected Components in Undirected Graph | LeetCode | Medium | [323](https://leetcode.com/problems/323/) | ☐ | |
 
@@ -115,12 +115,12 @@
 |---|---|---|---|---|---|---|
 | 1 | 1. Longest Substring Without Repeating Characters | LeetCode | Medium | [3](https://leetcode.com/problems/3/) | ☐ | |
 | 2 | 2. Longest Repeating Character Replacement | LeetCode | Medium | [424](https://leetcode.com/problems/424/) | ☐ | |
-| 3 | 3. Minimum Window Substring | LeetCode | Hard | [76](https://leetcode.com/problems/76/) | ☐ | |
-| 4 | 4. Valid Palindrome | LeetCode | Easy | [125](https://leetcode.com/problems/125/) | ☐ | |
+| 3 | 3. Minimum Window Substring | LeetCode | Hard | [76](https://leetcode.com/problems/76/) | ⭐ | |
+| 4 | 4. Valid Palindrome | LeetCode | Easy | [125](https://leetcode.com/problems/125/) | ⭐ | |
 | 5 | 5. Group Anagrams | LeetCode | Medium | [49](https://leetcode.com/problems/49/) | ☐ | |
 | 6 | 6. Valid Parentheses | LeetCode | Easy | [20](https://leetcode.com/problems/20/) | ☐ | |
 | 7 | 7. Encode and Decode Strings | LeetCode | Medium | [271](https://leetcode.com/problems/271/) | ☐ | |
-| 8 | 8. Longest Palindromic Substring | LeetCode | Medium | [5](https://leetcode.com/problems/5/) | ☐ | |
+| 8 | 8. Longest Palindromic Substring | LeetCode | Medium | [5](https://leetcode.com/problems/5/) | ⭐ | |
 
 ### 9. Tree
 
@@ -134,12 +134,12 @@
 | 4 | 4. Binary Tree Level Order Traversal | LeetCode | Medium | [102](https://leetcode.com/problems/102/) | ☐ | |
 | 5 | 5. Lowest Common Ancestor of a Binary Search Tree | LeetCode | Easy | [235](https://leetcode.com/problems/235/) | ☐ | |
 | 6 | 6. Lowest Common Ancestor of a Binary Tree | LeetCode | Medium | [236](https://leetcode.com/problems/236/) | ☐ | |
-| 7 | 7. Binary Tree Maximum Path Sum | LeetCode | Hard | [124](https://leetcode.com/problems/124/) | ☐ | |
+| 7 | 7. Binary Tree Maximum Path Sum | LeetCode | Hard | [124](https://leetcode.com/problems/124/) | ⭐ | |
 | 8 | 8. Binary Tree Right Side View | LeetCode | Medium | [199](https://leetcode.com/problems/199/) | ☐ | |
-| 9 | 9. Serialize and Deserialize Binary Tree | LeetCode | Hard | [297](https://leetcode.com/problems/297/) | ☐ | |
+| 9 | 9. Serialize and Deserialize Binary Tree | LeetCode | Hard | [297](https://leetcode.com/problems/297/) | ⭐ | |
 | 10 | 10. Subtree of Another Tree | LeetCode | Easy | [572](https://leetcode.com/problems/572/) | ☐ | |
 | 11 | 11. Construct Binary Tree from Preorder and Inorder Traversal | LeetCode | Medium | [105](https://leetcode.com/problems/105/) | ☐ | |
-| 12 | 12. Validate Binary Search Tree | LeetCode | Medium | [98](https://leetcode.com/problems/98/) | ☐ | |
+| 12 | 12. Validate Binary Search Tree | LeetCode | Medium | [98](https://leetcode.com/problems/98/) | ⭐ | |
 | 13 | 13. Kth Smallest Element in a BST | LeetCode | Medium | [230](https://leetcode.com/problems/230/) | ☐ | |
 
 ### 10. Heap

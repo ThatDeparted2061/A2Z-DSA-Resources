@@ -19,16 +19,16 @@
 
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
-| 1 | 1. Set Matrix Zeros | LeetCode | Medium | [73](https://leetcode.com/problems/73/) | ☐ | |
+| 1 | 1. Set Matrix Zeros | LeetCode | Medium | [73](https://leetcode.com/problems/73/) | ⭐ | |
 | 2 | 2. Pascal Triangle | LeetCode | Easy | [118](https://leetcode.com/problems/118/) | ☐ | |
-| 3 | 3. Next Permutation | LeetCode | Medium | [31](https://leetcode.com/problems/31/) | ☐ | |
-| 4 | 4. Inversion of Array (Merge Sort) | LeetCode | Hard | [493](https://leetcode.com/problems/493/) | ☐ | |
+| 3 | 3. Next Permutation | LeetCode | Medium | [31](https://leetcode.com/problems/31/) | ⭐ | |
+| 4 | 4. Inversion of Array (Merge Sort) | LeetCode | Hard | [493](https://leetcode.com/problems/493/) | ⭐ | |
 | 5 | 5. Search a 2D Matrix | LeetCode | Medium | [74](https://leetcode.com/problems/74/) | ☐ | |
 | 6 | 6. Pow(X, N) | LeetCode | Medium | [50](https://leetcode.com/problems/50/) | ☐ | |
-| 7 | 7. Majority Element | LeetCode | Easy | [169](https://leetcode.com/problems/169/) | ☐ | |
+| 7 | 7. Majority Element | LeetCode | Easy | [169](https://leetcode.com/problems/169/) | ⭐ | |
 | 8 | 8. Unique Paths | LeetCode | Medium | [62](https://leetcode.com/problems/62/) | ☐ | |
 | 9 | 9. Unique Paths II | LeetCode | Medium | [63](https://leetcode.com/problems/63/) | ☐ | |
-| 10 | 10. Minimum Path Sum | LeetCode | Medium | [64](https://leetcode.com/problems/64/) | ☐ | |
+| 10 | 10. Minimum Path Sum | LeetCode | Medium | [64](https://leetcode.com/problems/64/) | ⭐ | |
 
 ### 2. Strings
 
@@ -48,11 +48,11 @@
 
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
-| 1 | 1. Reverse Linked List | LeetCode | Easy | [206](https://leetcode.com/problems/206/) | ☐ | |
+| 1 | 1. Reverse Linked List | LeetCode | Easy | [206](https://leetcode.com/problems/206/) | ⭐ | |
 | 2 | 2. Middle of LinkedList | LeetCode | Easy | [876](https://leetcode.com/problems/876/) | ☐ | |
 | 3 | 3. Merge Two Sorted Lists | LeetCode | Easy | [21](https://leetcode.com/problems/21/) | ☐ | |
-| 4 | 4. Add Two Numbers | LeetCode | Medium | [2](https://leetcode.com/problems/2/) | ☐ | |
-| 5 | 5. Detect Cycle in Linked List | LeetCode | Easy | [141](https://leetcode.com/problems/141/) | ☐ | |
+| 4 | 4. Add Two Numbers | LeetCode | Medium | [2](https://leetcode.com/problems/2/) | ⭐ | |
+| 5 | 5. Detect Cycle in Linked List | LeetCode | Easy | [141](https://leetcode.com/problems/141/) | ⭐ | |
 
 ### 4. Trees
 
@@ -60,12 +60,12 @@
 
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
-| 1 | 1. Inorder Traversal | LeetCode | Easy | [94](https://leetcode.com/problems/94/) | ☐ | |
+| 1 | 1. Inorder Traversal | LeetCode | Easy | [94](https://leetcode.com/problems/94/) | ⭐ | |
 | 2 | 2. Preorder Traversal | LeetCode | Easy | [144](https://leetcode.com/problems/144/) | ☐ | |
 | 3 | 3. Postorder Traversal | LeetCode | Easy | [145](https://leetcode.com/problems/145/) | ☐ | |
 | 4 | 4. Level Order Traversal | LeetCode | Easy | [102](https://leetcode.com/problems/102/) | ☐ | |
-| 5 | 5. Maximum Path Sum | LeetCode | Hard | [124](https://leetcode.com/problems/124/) | ☐ | |
-| 6 | 6. Lowest Common Ancestor | LeetCode | Medium | [236](https://leetcode.com/problems/236/) | ☐ | |
+| 5 | 5. Maximum Path Sum | LeetCode | Hard | [124](https://leetcode.com/problems/124/) | ⭐ | |
+| 6 | 6. Lowest Common Ancestor | LeetCode | Medium | [236](https://leetcode.com/problems/236/) | ⭐ | |
 
 ### 5. Stacks and Queues
 
@@ -104,7 +104,7 @@
 
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
-| 1 | 1. Number of Islands | LeetCode | Medium | [200](https://leetcode.com/problems/200/) | ☐ | |
+| 1 | 1. Number of Islands | LeetCode | Medium | [200](https://leetcode.com/problems/200/) | ⭐ | |
 | 2 | 2. BFS Traversal | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/) | ☐ | |
 | 3 | 3. DFS Traversal | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/dfs-traversal-of-graph/) | ☐ | |
 
@@ -115,8 +115,8 @@
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
 | 1 | 1. Climbing Stairs | LeetCode | Easy | [70](https://leetcode.com/problems/70/) | ☐ | |
-| 2 | 2. House Robber | LeetCode | Medium | [198](https://leetcode.com/problems/198/) | ☐ | |
-| 3 | 3. Edit Distance | LeetCode | Hard | [72](https://leetcode.com/problems/72/) | ☐ | |
+| 2 | 2. House Robber | LeetCode | Medium | [198](https://leetcode.com/problems/198/) | ⭐ | |
+| 3 | 3. Edit Distance | LeetCode | Hard | [72](https://leetcode.com/problems/72/) | ⭐ | |
 
 ---
 

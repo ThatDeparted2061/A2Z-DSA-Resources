@@ -19,10 +19,10 @@
 
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
-| 1 | 1. Modular Exponentiation | CodeChef | Medium | [Link](https://www.codechef.com) | ☐ | |
+| 1 | 1. Modular Exponentiation | CodeChef | Medium | [Link](https://www.codechef.com) | ⭐ | |
 | 2 | 2. GCD and LCM | Codeforces | Easy | [Link](https://codeforces.com) | ☐ | |
 | 3 | 3. Prime Factorization | CodeChef | Easy | [Link](https://www.codechef.com) | ☐ | |
-| 4 | 4. Sieve of Eratosthenes | CodeChef | Easy | [Link](https://www.codechef.com) | ☐ | |
+| 4 | 4. Sieve of Eratosthenes | CodeChef | Easy | [Link](https://www.codechef.com) | ⭐ | |
 
 ### 2. Modular Arithmetic
 
@@ -50,11 +50,11 @@
 
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
-| 1 | 1. Dijkstra's Algorithm | Codeforces | Medium | [Link](https://codeforces.com) | ☐ | |
+| 1 | 1. Dijkstra's Algorithm | Codeforces | Medium | [Link](https://codeforces.com) | ⭐ | |
 | 2 | 2. Floyd Warshall | Codeforces | Medium | [Link](https://codeforces.com) | ☐ | |
 | 3 | 3. Bellman Ford | CodeChef | Medium | [Link](https://www.codechef.com) | ☐ | |
-| 4 | 4. Minimum Spanning Tree (Kruskal & Prim) | Codeforces | Medium | [Link](https://codeforces.com) | ☐ | |
-| 5 | 5. Strongly Connected Components | Codeforces | Hard | [Link](https://codeforces.com) | ☐ | |
+| 4 | 4. Minimum Spanning Tree (Kruskal & Prim) | Codeforces | Medium | [Link](https://codeforces.com) | ⭐ | |
+| 5 | 5. Strongly Connected Components | Codeforces | Hard | [Link](https://codeforces.com) | ⭐ | |
 | 6 | 6. Network Flow (Max Flow) | CodeChef | Hard | [Link](https://www.codechef.com) | ☐ | |
 
 ### 5. DP in CP
@@ -63,9 +63,9 @@
 
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
-| 1 | 1. DP on Trees | Codeforces | Hard | [Link](https://codeforces.com) | ☐ | |
+| 1 | 1. DP on Trees | Codeforces | Hard | [Link](https://codeforces.com) | ⭐ | |
 | 2 | 2. DP on DAG | Codeforces | Hard | [Link](https://codeforces.com) | ☐ | |
-| 3 | 3. Bitmask DP | Codeforces | Hard | [Link](https://codeforces.com) | ☐ | |
+| 3 | 3. Bitmask DP | Codeforces | Hard | [Link](https://codeforces.com) | ⭐ | |
 | 4 | 4. Digit DP | CodeChef | Hard | [Link](https://www.codechef.com) | ☐ | |
 
 ### 6. Advanced Algorithms
@@ -75,8 +75,8 @@
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
 | 1 | 1. Binary Search + DP | Codeforces | Hard | [Link](https://codeforces.com) | ☐ | |
-| 2 | 2. Segment Trees | CodeChef | Hard | [Link](https://www.codechef.com) | ☐ | |
-| 3 | 3. Fenwick Trees (BIT) | Codeforces | Hard | [Link](https://codeforces.com) | ☐ | |
+| 2 | 2. Segment Trees | CodeChef | Hard | [Link](https://www.codechef.com) | ⭐ | |
+| 3 | 3. Fenwick Trees (BIT) | Codeforces | Hard | [Link](https://codeforces.com) | ⭐ | |
 | 4 | 4. Square Root Decomposition | CodeChef | Medium | [Link](https://www.codechef.com) | ☐ | |
 | 5 | 5. Heavy Light Decomposition | Codeforces | Hard | [Link](https://codeforces.com) | ☐ | |
 
@@ -86,9 +86,9 @@
 
 | # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
-| 1 | 1. KMP Algorithm | Codeforces | Hard | [Link](https://codeforces.com) | ☐ | |
+| 1 | 1. KMP Algorithm | Codeforces | Hard | [Link](https://codeforces.com) | ⭐ | |
 | 2 | 2. Z-Algorithm | CodeChef | Hard | [Link](https://www.codechef.com) | ☐ | |
-| 3 | 3. Rabin-Karp Hashing | Codeforces | Hard | [Link](https://codeforces.com) | ☐ | |
+| 3 | 3. Rabin-Karp Hashing | Codeforces | Hard | [Link](https://codeforces.com) | ⭐ | |
 | 4 | 4. Suffix Arrays | CodeChef | Hard | [Link](https://www.codechef.com) | ☐ | |
 
 ---
