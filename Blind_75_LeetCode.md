@@ -1,7 +1,7 @@
 # Blind 75 LeetCode - Essential Problems Archive
 
-> **📌 ARCHIVE NOTICE**: Essential 75 LeetCode problems for coding interviews.  
-> All problems organized by topic with difficulty levels and direct LeetCode links.
+> **📌 ARCHIVE NOTICE**: Essential DSA problems for interview prep.  
+> All problems with difficulty levels and direct LeetCode links.
 
 ## 📚 Complete Problem List
 
