@@ -43,7 +43,7 @@
 | 4 | Longest Consecutive Sequence in an Array | Medium | [Solve](https://leetcode.com/problems/longest-consecutive-sequence/) | ☐ | |
 | 5 | Alien Dictionary | Medium | [Solve](https://leetcode.com/problems/alien-dictionary/) | ☐ | |
 | 6 | Graph Valid Tree | Medium | [Solve](https://leetcode.com/problems/graph-valid-tree/) | ☐ | |
-| 7 | Connected Components | Medium |  | ☐ | |
+||7|Connected Components|Medium|[Solve](https://leetcode.com/problems/rotate-image/)|☐||
 
 ### Heap
 
@@ -63,7 +63,7 @@
 | 1 | Insert Interval | Medium | [Solve](https://leetcode.com/problems/insert-interval/) | ☐ | |
 | 2 | Merge Intervals | Medium | [Solve](https://leetcode.com/problems/merge-intervals/) | ☐ | |
 | 3 | Non-overlapping Intervals | Medium | [Solve](https://leetcode.com/problems/non-overlapping-intervals/) | ☐ | |
-| 4 | Find the repeating and missing number | Medium |  | ☐ | |
+||4|Find the repeating and missing number|Medium|[Solve](https://leetcode.com/problems/container-with-most-water/)|☐||
 | 5 | Meeting Rooms | Medium | [Solve](https://leetcode.com/problems/meeting-rooms-ii/) | ☐ | |
 | 6 | Meeting Rooms II | Medium | [Solve](https://leetcode.com/problems/meeting-rooms-ii/) | ☐ | |
 
@@ -74,7 +74,7 @@
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
 | 1 | Reverse a LL | Medium | [Solve](https://leetcode.com/problems/reverse-bits/) | ☐ | |
-| 2 | Detect a loop in LL | Medium |  | ☐ | |
+||2|Detect a loop in LL|Medium|[Solve](https://leetcode.com/problems/reverse-linked-list/)|☐||
 | 3 | Merge two Sorted Lists | Medium | [Solve](https://leetcode.com/problems/merge-two-sorted-lists/) | ☐ | |
 | 4 | Merge K Sorted Arrays | Medium | [Solve](https://leetcode.com/problems/merge-two-sorted-lists/) | ☐ | |
 | 5 | Remove Nth node from the back of the LL | Medium | [Solve](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ☐ | |
@@ -86,7 +86,7 @@
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
 | 1 | Set Matrix Zeroes | Medium | [Solve](https://leetcode.com/problems/set-matrix-zeroes/) | ☐ | |
-| 2 | Print the matrix in spiral manner | Medium |  | ☐ | |
+||2|Print the matrix in spiral manner|Medium|[Solve](https://leetcode.com/problems/implement-trie-prefix-tree/)|☐||
 | 3 | Rotate matrix by 90 degrees | Medium | [Solve](https://leetcode.com/problems/set-matrix-zeroes/) | ☐ | |
 | 4 | Word Search | Medium | [Solve](https://leetcode.com/problems/word-search/) | ☐ | |
 
@@ -113,17 +113,17 @@
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
 | 1 | Maximum Depth in BT | Medium | [Solve](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ☐ | |
-| 2 | Check if two trees are identical or not | Medium |  | ☐ | |
+||2|Check if two trees are identical or not|Medium|[Solve](https://leetcode.com/problems/pacific-atlantic-water-flow/)|☐||
 | 3 | Invert/Flip Binary Tree (Create) | Medium | [Solve](https://leetcode.com/problems/invert-binary-tree/) | ☐ | |
 | 4 | Maximum path sum | Medium | [Solve](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | ☐ | |
 | 5 | Level Order Traversal | Medium | [Solve](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ☐ | |
 | 6 | Serialize and De-serialize BT | Medium | [Solve](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | ☐ | |
 | 7 | Construct the Binary Tree from Postorder and Inorder Traversal | Medium | [Solve](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | ☐ | |
-| 8 | Check if a tree is a BST or not | Medium |  | ☐ | |
+||8|Check if a tree is a BST or not|Medium|[Solve](https://leetcode.com/problems/subtree-of-another-tree/)|☐||
 | 9 | Find K-th smallest element in BST | Medium | [Solve](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | ☐ | |
 | 10 | LCA in BST | Medium | [Solve](https://leetcode.com/problems/counting-bits/) | ☐ | |
-| 11 | Trie Implementation and Operations | Medium |  | ☐ | |
-| 12 | Trie Implementation and Advanced Operations | Medium |  | ☐ | |
+||11|Trie Implementation and Operations|Medium|[Solve](https://leetcode.com/problems/contains-duplicate/)|☐||
+||12|Trie Implementation and Advanced Operations|Medium|[Solve](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|☐||
 
 ### Uncategorized
 
